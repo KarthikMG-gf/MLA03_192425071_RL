@@ -1,0 +1,4 @@
+event,reward
+Goal reached,20
+Normal move,-1
+Obstacle or boundary attempt,-10
