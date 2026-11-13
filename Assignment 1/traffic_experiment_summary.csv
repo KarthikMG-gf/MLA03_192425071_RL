@@ -1,0 +1,4 @@
+controller,average_reward,average_mean_queue,arm_0_selections,arm_1_selections,arm_2_selections,arm_3_selections,decisions
+fixed_time,-133.125,33.6875,240,240,240,240,960
+greedy,-122.3253,31.076,16,15,3,926,960
+epsilon_greedy,-135.1839,34.1716,72,836,22,30,960

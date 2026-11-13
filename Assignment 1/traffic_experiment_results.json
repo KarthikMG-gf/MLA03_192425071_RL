@@ -1,0 +1,56 @@
+[
+  {
+    "controller": "fixed_time",
+    "average_reward": -133.125,
+    "average_mean_queue": 33.6875,
+    "action_counts": [
+      240,
+      240,
+      240,
+      240
+    ],
+    "estimated_arm_rewards": [
+      -102.75,
+      -120.5,
+      -148.25,
+      -161.0
+    ],
+    "decisions": 960
+  },
+  {
+    "controller": "greedy",
+    "average_reward": -122.32526041666667,
+    "average_mean_queue": 31.076041666666665,
+    "action_counts": [
+      16,
+      15,
+      3,
+      926
+    ],
+    "estimated_arm_rewards": [
+      -138.0,
+      -132.3,
+      -159.5833,
+      -121.7721
+    ],
+    "decisions": 960
+  },
+  {
+    "controller": "epsilon_greedy",
+    "average_reward": -135.18385416666666,
+    "average_mean_queue": 34.17161458333333,
+    "action_counts": [
+      72,
+      836,
+      22,
+      30
+    ],
+    "estimated_arm_rewards": [
+      -146.25,
+      -134.0766,
+      -139.1136,
+      -136.6
+    ],
+    "decisions": 960
+  }
+]
