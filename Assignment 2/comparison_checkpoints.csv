@@ -1,0 +1,14 @@
+Algorithm,Training episodes,Mean training return (last 10),Training success rate (last 10),Greedy evaluation success rate,Greedy evaluation mean reward,Greedy evaluation mean steps
+Value Iteration,0,,,1.0,13.0,8.0
+SARSA,10,-64.0,1.0,0.0,-100.0,100.0
+SARSA,25,-2.6,1.0,0.0,-100.0,100.0
+SARSA,50,7.4,1.0,1.0,13.0,8.0
+SARSA,100,9.2,1.0,1.0,13.0,8.0
+SARSA,200,8.4,1.0,1.0,13.0,8.0
+SARSA,500,8.6,1.0,1.0,13.0,8.0
+Q-Learning,10,-56.2,1.0,0.0,-1000.0,100.0
+Q-Learning,25,2.0,1.0,1.0,13.0,8.0
+Q-Learning,50,6.2,1.0,1.0,13.0,8.0
+Q-Learning,100,7.4,1.0,1.0,13.0,8.0
+Q-Learning,200,3.4,1.0,1.0,13.0,8.0
+Q-Learning,500,3.0,1.0,1.0,13.0,8.0
